@@ -17,7 +17,7 @@ in the maxminddb repository for an example of this.)
 ## Installation ##
 
 ```
-go get github.com/tuochi/geoip2-golang
+go get github.com/tuhochi/geoip2-golang
 ```
 
 ## Usage ##
